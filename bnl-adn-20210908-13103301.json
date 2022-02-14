@@ -1,0 +1,228 @@
+{
+  "_index": "items-production-20181105",
+  "_type": "item",
+  "_id": "bnl-adn-20210908-13103301",
+  "_version": 40,
+  "found": true,
+  "_source": {
+    "item": {
+      "date": "2021-09-08T00:00:00+00:00",
+      "item_index": 15,
+      "images": [],
+      "issue": {
+        "publication_date": "2021-09-08",
+        "id": "bnl-adn-20210908"
+      },
+      "format_version": 5,
+      "provider": {
+        "id": "adn"
+      },
+      "_links": {
+        "self": {
+          "href": "s3://static.blendle.nl/publication/adn/2021/09/08/item/13103301/version/1/private/content.json"
+        }
+      },
+      "streamers": [
+        {
+          "type": "streamer",
+          "content": "Het was een vreemde gewaarwording hoe keuzes gemaakt worden"
+        }
+      ],
+      "section": {
+        "pages_index": 3,
+        "name": "Landelijk"
+      },
+      "id": "bnl-adn-20210908-13103301",
+      "body": [
+        {
+          "type": "kicker",
+          "content": "Kamerlid Pieter Omtzigt wil niet terug naar werkweken van meer dan 70 uur"
+        },
+        {
+          "type": "intro",
+          "content": "Pieter Omtzigt is al meer dan honderd dagen thuis, in Enschede. Met een burn-out. Over een week keert hij terug in de Tweede Kamer, waar hij de afgelopen maanden de meest besproken man was. Hij moest op zijn tong bijten, om maar niet te reageren. Dit is zijn verhaal."
+        },
+        {
+          "type": "hl1",
+          "content": "'Ik heb lang tegen mijn besluit aangehikt'"
+        },
+        {
+          "type": "dateline",
+          "content": "Kelly Adams Enschede"
+        },
+        {
+          "type": "p",
+          "content": "De bospaden en parken rondom zijn huis kent Pieter Omtzigt inmiddels als zijn broekzak. Tijdens een wandeling deze maandagmiddag wijst hij op landgoed Hof Espelo naar typisch Twentse beelden. Hier vond hij de afgelopen maanden rust. Hij liep er kilometers, om zijn hoofd leeg te maken. Vaak na zonsondergang, in het donker. Even geen mensen die informeren hoe het met hem gaat, hoe goedbedoeld ook."
+        },
+        {
+          "type": "p",
+          "content": "Maandenlang hield de politicus zich stil. Hij zette alleen een enkele keer een statement op Twitter. Nu doet hij zijn verhaal met de Twentse krant Tubantia. In de eetkamer, thuis in Enschede. Met zijn vrouw in de buurt die aan de andere kant van de gang in haar eigen kantoor aan het werk is, en de kinderen die zich in de keuken klaarmaken voor een nieuwe schooldag."
+        },
+        {
+          "type": "p",
+          "content": "Op 15 september keert hij terug als Tweede Kamerlid. Niet meer voor zijn oude partij, het CDA, maar als Groep Omtzigt."
+        },
+        {
+          "type": "ph",
+          "content": "Hoe gaat het met u?"
+        },
+        {
+          "type": "p",
+          "content": "\"Een stuk beter. Ik kijk ernaar uit om aan het werk te gaan, weer in debat te gaan en mensen te spreken. Ik zie een beetje op tegen de media-aandacht. Ik ben nog niet 100 procent hersteld. In een normale baan zou je eens rustig met halve dagen beginnen. Maar ja, in de Tweede Kamer is het alles of niks. Maar verwacht even niet de 70 uur per week die ik voor die tijd maakte en ik ben ook voornemens om dat niet meer zo te doen. Ik heb vrij strakke afspraken met mijn omgeving gemaakt om me daar aan te houden.''"
+        },
+        {
+          "type": "ph",
+          "content": "U was de afgelopen maanden ziek thuis, maar ondertussen was u de meest besproken man op het Binnenhof. Hoe heeft u dat beleefd?"
+        },
+        {
+          "type": "p",
+          "content": "\"Het was ideaal geweest als ik even helemaal 'uit' had gekund. Maar aan het begin lukte dat niet. Er zijn toen een aantal debatten geweest in de Tweede Kamer die over mij gingen.''"
+        },
+        {
+          "type": "ph",
+          "content": "Heeft u naar die debatten gekeken?"
+        },
+        {
+          "type": "p",
+          "content": "\"Ja. Ik weet niet of dat het verstandigste was. Ik werd er niet rustiger van, zal ik maar zeggen. Wat wel heel erg hielp, was dat ontzettend veel mensen hun steun lieten blijken, met bloemen en kaarten, hartverwarmende reacties.''"
+        },
+        {
+          "type": "ph",
+          "content": "Heeft u overwogen om toch te reageren?"
+        },
+        {
+          "type": "p",
+          "content": "\"Oh meerdere keren heb ik op mijn tong gebeten. Maar ik wist dat als je een keer reageert, je vervolgens overal op moet reageren. Er is maar een ding dat helpt en dat is even helemaal niet reageren."
+        },
+        {
+          "type": "p",
+          "content": "Bijna iedereen was wel begripvol maar er kwamen toch heel veel appjes binnen van mensen die constant een reactie ergens op wilden. Dan weet je dat er maar een ding is dat je kan doen en dat is even niets zeggen.''"
+        },
+        {
+          "type": "ph",
+          "content": "Uw vrouw Ayfer Koç reageerde wel."
+        },
+        {
+          "type": "p",
+          "content": "\"Daar hebben we niet zozeer een afspraak over gemaakt. Zij heeft een eigen leven, een eigen functie en een eigen manier van reageren. Ze kan reageren zoals zij dat voelt. Ook zij vond er wel eens wat van, van wat er over mij wordt gezegd.''"
+        },
+        {
+          "type": "ph",
+          "content": "Hoe was het voor u om zo veel thuis te zijn de afgelopen maanden?"
+        },
+        {
+          "type": "p",
+          "content": "\"Dat betekende heel veel, het was heel fijn om met Ayfer en de kinderen te zijn. Ik heb ontzettend veel steun gehad aan Ayfer en ik heb het heerlijk gevonden meer thuis te zijn. De afgelopen twaalf jaar heb ik altijd half in Den Haag gewoond. We zijn nu twaalf jaar getrouwd, dus dit was de eerste keer dat ik eens een half jaar thuis was."
+        },
+        {
+          "type": "p",
+          "content": "Het is natuurlijk heel mooi om onderdeel te zijn van een gezin, maar als politicus in Den Haag was dat best lastig. We hebben vier dochters. De kinderen zeiden dat ze het wel leuk vonden dat ik er was. Maar ik had net even wat meer tijd en zij zijn tot grote steun geweest. Ik denk dat ik dit ook ga missen.''"
+        },
+        {
+          "type": "ph",
+          "content": "Heeft u in de afgelopen maanden overwogen te stoppen als politicus?"
+        },
+        {
+          "type": "p",
+          "content": "\"Ik heb niet toegelaten dat het een optie zou zijn. Ik heb me kandidaat gesteld en ik kreeg ruim 342.000 voorkeurstemmen. Bovendien ben ik met een duidelijk plan gekomen bij de verkiezingen, een nieuw sociaal contract voor een nieuwe bestuurscultuur. Dan is het voor mij logisch om terug te keren naar Den Haag als dat kan. Om die voorstellen voor te leggen in de Tweede Kamer.''"
+        },
+        {
+          "type": "ph",
+          "content": "Lukte het om afstand te nemen van Den Haag?"
+        },
+        {
+          "type": "p",
+          "content": "\"Sinds corona loop ik uren door de bossen hier in de omgeving. Ik heb heel veel nieuwe plekken ontdekt. En tijdens mijn burn-out heeft dat heel erg geholpen om mijn hoofd leeg te maken. Het liefst in het donker, na zonsondergang. Mensen zijn heel belangstellend, maar je wil niet telkens praten over hoe het met je gaat."
+        },
+        {
+          "type": "p",
+          "content": "Mijn leefstijl was de afgelopen jaren niet heel gezond, dus ik ben wat vaker de sportschool in gegaan. Iets fitter worden, iets meer in balans raken. Het politieke leven kan je helemaal uit balans brengen, privé en qua gezondheid. Die balans is nu voor een groot stuk terug en dat wil ik ook graag zo houden.''"
+        },
+        {
+          "type": "ph",
+          "content": "Terwijl u ziek thuis zat, schreef u een vernietigend memo over het CDA. Dat lekte uit. U stapte uit het CDA. Is er nog een weg terug?"
+        },
+        {
+          "type": "p",
+          "content": "\"Ik heb een weloverwogen besluit genomen. Daarmee is het CDA voor mij nu een gesloten hoofdstuk. Er waren verschillen van mening over de inhoud en er waren verschillen in hoe ik vind dat je omgaat met elkaar. Dat heb je gezien in het document dat helaas gelekt is en heb je kunnen zien in de openbaar gemaakte kabinetsnotulen. Het is niet een keuze die ik makkelijk gemaakt heb. Daar heb ik lang tegenaan gehikt. Maar ik sta achter mijn beslissing.''"
+        },
+        {
+          "type": "ph",
+          "content": "Weet u wie het memo gelekt heeft?"
+        },
+        {
+          "type": "p",
+          "content": "\"Nee ik weet niet wie er naar de krant gelekt heeft.''"
+        },
+        {
+          "type": "ph",
+          "content": "Deed u het zelf?"
+        },
+        {
+          "type": "p",
+          "content": "\"Nee, ik heb het niet zelf gelekt. Als ik zeg dat ik niet weet, heb ik het ook niet zelf gedaan. Ik heb een redelijk actieve herinnering aan wat ik doe en dat zou ik ook hier hebben.''"
+        },
+        {
+          "type": "ph",
+          "content": "Er werd gesuggereerd dat het een vooropgezet plan was. U wilde een eigen partij beginnen."
+        },
+        {
+          "type": "p",
+          "content": "\"Iedereen die mij gezien heeft in de afgelopen maanden weet dat ik echt ziek was. Maar wat ik wel heel interessant vind, is dat er mensen zijn die denken dat terwijl ik hier met een burn-out zit, ik werk aan een soort masterplan om iets te gaan doen."
+        },
+        {
+          "type": "p",
+          "content": "Dat masterplan heb ik niet. Ik wil gewoon de komende maanden rustig aan het werk kunnen gaan, rustig weer kunnen beginnen. In een lagere versnelling dan ik heel lang gedaan heb."
+        },
+        {
+          "type": "p",
+          "content": "Dat hele idee dat je dit kunt doen als je een burn-out hebt. Het ging zoals het ging. Er is een harde clash geweest tussen mijn idealen en de idealen van anderen. Ik zeg al een tijdlang dat we in Den Haag andere omgangsvormen en een andere bestuurscultuur nodig hebben. Uit het stuk dat naar buiten is gekomen blijkt hoe er met mij is omgegaan. Dat maakte de werkomgeving niet altijd prettig.''"
+        },
+        {
+          "type": "ph",
+          "content": "U bent kritisch over de omgangsvormen in Den Haag, is dat gevoel versterkt de afgelopen maanden?"
+        },
+        {
+          "type": "p",
+          "content": "\"De notulen van het kabinet lieten zien dat het kabinet meer bezig was met het controleren van Kamerleden en beeldvorming dan met het oplossen van problemen van burgers. Dat vond ik heel pijnlijk om te zien, vooral voor de burgers die erbij betrokken waren."
+        },
+        {
+          "type": "p",
+          "content": "Mijn gevoel was juist, maar het viel me wel tegen dat het in het kabinet zelf gebeurde. Ik dacht altijd dat het om het kabinet heen was, maar dat het kabinet zelf over Kamerleden spreekt en niet over de oplossing voor de ouders in de toeslagenaffaire, dat viel me toch wel rauw op het dak.''"
+        },
+        {
+          "type": "ph",
+          "content": "Wanneer kwam het moment dat u zich beter voelde?"
+        },
+        {
+          "type": "p",
+          "content": "\"Dat was in juni, juli, vrij snel nadat ik mijn CDA-lidmaatschap had opgezegd. We zijn lekker op vakantie geweest in Zeeland, met het gezin. Het ging langzaam beter, dat gaat natuurlijk met vallen en opstaan.''"
+        },
+        {
+          "type": "ph",
+          "content": "Wat heeft u het meest geraakt in de afgelopen maanden?"
+        },
+        {
+          "type": "p",
+          "content": "\"Vooral de steun die ik van veel mensen gehad heb, dat was heel hartverwarmend. Politiek heeft het me geraakt. Ik ben niet optimistischer geworden over het Nederlandse politieke stelsel nu ik het een paar maanden vanuit huis heb beschouwd. Over hoe duidelijk het niet gaat over de problemen, hoe duidelijk het echt alleen maar gaat over persoonlijke verhoudingen. In een ongezonde bestuurscultuur met veel te weinig checks and balances en welke directe gevolgen dat heeft voor urgente maatschappelijke problemen."
+        },
+        {
+          "type": "p",
+          "content": "Het was voor het eerst dat ik als geïnteresseerde burger naar politiek gekeken heb, natuurlijk wel met een iets ander inzicht over wat er achter de schermen gebeurt. Het was een vreemde gewaarwording, hoe keuzes gemaakt worden. Of niet gemaakt worden vooral. Dat heeft mij geraakt.''"
+        },
+        {
+          "type": "ph",
+          "content": "Met welk gevoel gaat u volgende week woensdag weer aan het werk?"
+        },
+        {
+          "type": "p",
+          "content": "\"Ik stap gewoon in de trein, zoals ik altijd deed. Een treinreis vind ik heerlijk. Ik zie wel wat op tegen de hectiek. De agenda voor debatten wordt pas vrijdag duidelijk. Als het goed is ben ik 15 en 16 september in Den Haag en de derde Kamerdag is het alweer Prinsjesdag. Daarna de algemene beschouwingen, daar zal ik wel aan meedoen."
+        },
+        {
+          "type": "p",
+          "content": "Ik blijf op dinsdag, woensdag en donderdag in Den Haag. Maar ik wil op maandag hier in Enschede zijn, hier werken en er voor de kinderen zijn. De afgelopen jaren heb ik veel te gemakkelijk privé- en sportafspraken constant afgezegd. Het zal een hele uitdaging voor mij worden om dat niet meer zo gemakkelijk te doen. Maar ik hou van uitdagingen.''"
+        }
+      ]
+    }
+  }
+}
